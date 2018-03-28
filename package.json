@@ -1,0 +1,19 @@
+{
+  "name": "test-parcel-bootstrap-css-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Samuel Scheiderich",
+  "license": "0BSD",
+  "devDependencies": {
+    "bootstrap": "^4.0.0",
+    "node-sass": "^4.8.3",
+    "parcel-bundler": "^1.6.2",
+    "postcss-modules": "^1.1.0"
+  }
+}

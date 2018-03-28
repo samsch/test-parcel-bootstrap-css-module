@@ -1,0 +1,11 @@
+
+:global {
+  @import './node_modules/bootstrap/scss/bootstrap.scss';
+}
+
+.wrapper {
+  width: 800px;
+  max-width: 100%;
+  background-color: #eee;
+  margin: auto;
+}
